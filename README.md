@@ -25,7 +25,7 @@ OrganizePuu is designed to:
 ### Installation Steps
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/tinpuu/organizepuu.git
+   git clone https://github.com/tinopuu/organizepuu.git
    cd organizepuu
    ```
 
